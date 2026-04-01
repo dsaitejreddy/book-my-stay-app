@@ -33,7 +33,7 @@ class InvalidBookingValidator {
 }
 
 // Main Class
-public class UC9 {
+public class UseCase9ErrorHandlingValidation{
 
     public static void main(String[] args) {
 
